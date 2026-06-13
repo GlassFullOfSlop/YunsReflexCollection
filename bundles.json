@@ -1,0 +1,52 @@
+{
+    "manifest": [
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_aksion_ekp_8_18_marks",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_eotech_hhs_1_mesh",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_eotech_hhs_1_tan_mesh",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_walther_mrs.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_vomz_pilad_p1x42_weaver_textures.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_base_burris_fast_fire_3.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_base_aimpoint_micro_h2.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_elcan_specter_hco.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_ekb_okp7.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_sig_romeo_8t.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_valday_krechet_mark.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_belomo_pk_06.bundle",
+            "dependencyKeys": []
+        }
+    ]
+}
